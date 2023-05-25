@@ -23,6 +23,7 @@
   display: block;
   background: #7c03c7;
   border-radius: 4px;
+  font-weight: 700;
 }
 
 @media (max-width: 800px) {
